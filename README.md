@@ -1,4 +1,4 @@
-# Ng5
+# AngularJS 5 Simple Example with custom Component
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
